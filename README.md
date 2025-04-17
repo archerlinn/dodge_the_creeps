@@ -1,8 +1,3 @@
-Here's a polished and professional `README.md` file for your **first Godot project**, _Dodge the Creeps_, based on the official Godot tutorial:
-
----
-
-```markdown
 # 🎮 Dodge the Creeps
 
 Welcome to **Dodge the Creeps**, a fast-paced 2D survival game built using the [Godot Engine](https://godotengine.org/). This was my first project using Godot, created by closely following the official [First 2D Game tutorial](https://docs.godotengine.org/en/stable/getting_started/first_2d_game/index.html).
@@ -104,5 +99,3 @@ Some features I'm considering for future versions:
 ## 📜 License
 
 This project is for educational purposes and personal learning. Assets are sourced from the Godot tutorial and fall under their respective licenses.
-
----
