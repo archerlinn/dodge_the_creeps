@@ -72,9 +72,9 @@ DodgeTheCreeps/
 ## 📷 Screenshots
 
 <p align="center">
-    <img src="screenshots/Screenshot%202025-04-17%20014655.png" alt="Gameplay Screenshot" width="40%"/>
-    <img src="screenshots/Screenshot%202025-04-17%20014717.png" alt="Gameplay Screenshot" width="40%"/>
-    <img src="screenshots/Screenshot%202025-04-17%20014750.png" alt="Gameplay Screenshot" width="40%"/>
+    <img src="screenshots/Screenshot%202025-04-17%20014655.png" alt="Gameplay Screenshot" width="30%"/>
+    <img src="screenshots/Screenshot%202025-04-17%20014717.png" alt="Gameplay Screenshot" width="30%"/>
+    <img src="screenshots/Screenshot%202025-04-17%20014750.png" alt="Gameplay Screenshot" width="30%"/>
 </p>
 
 ---
