@@ -4,6 +4,8 @@ Welcome to **Dodge the Creeps**, a fast-paced 2D survival game built using the [
 
 The goal? **Avoid the mobs** (a.k.a. creeps) for as long as you can, and see how high of a score you can rack up!
 
+Try the game at --> https://archerlinn.github.io/dodge_the_creeps/
+
 ---
 
 ## 🚀 Gameplay
